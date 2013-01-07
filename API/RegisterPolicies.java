@@ -4,7 +4,7 @@ import policy.core.PolicyRegister;
 /**Allows the programmer to register their custom Policy implementations
  * with the system so that they can be loaded in to the simulation and used
  *
- * @author Darius Hodaei <k1183257@kcl.ac.uk>
+ * @author Darius Hodaei <k1183257@kcl.ac.uk> 
  */
 public class RegisterPolicies extends PolicyRegister {
 
